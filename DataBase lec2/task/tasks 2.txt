@@ -1,0 +1,22 @@
+create Employees table wiith column ( EmployeeID, FirstName, LastName, Department, Salary )
+----------------------------------------------------------------
+Insert a new record into the Employees table.
+
+EmployeeID     FirstName   LastName  Department      Salary
+101            'John1'      'Doe1'     'HR'            20000
+102            'John2'      'Doe2'     'IT'            50000
+103            'John3'      'Doe3'     'CS'            40000
+104            'John4'      'Doe4'     'IT'            10000
+105            'John5'      'Doe5'     'ZX'            30000
+-----------------------------------------------------------------------------------------
+Update the salary of an employee to 600000 with EmployeeID     101.
+-----------------------------------------------------------------
+Delete a record of an employee who Department = 101.
+----------------------------------------------------------------
+Retrieve all employees in the IT department.
+---------------------------------------------------------------
+select * data from table but conatination  FirstName, LastName as one column
+-----------------------------------------------------------------------------------
+
+
+
