@@ -1,0 +1,19 @@
+create table Doctor contain
+
+id, name , salary , address
+----------------------------------
+please insert 10 row with Data as you like 
+-----------------------------------------
+update record number 3 with salary 20000
+----------------------------------
+delete record number 9
+-----------------------------------------
+ please Concatenation all name with salary  of all rows
+----------------------------------
+display all record with salary * 2
+-----------------------------------------
+ select all data with salary  1000 , 2000 , 3000 
+----------------------------------
+rename table Doctor to PRD_DOCTOR
+-----------------------------------------
+  
