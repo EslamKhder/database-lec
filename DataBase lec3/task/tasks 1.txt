@@ -1,0 +1,17 @@
+1. Find all employee where the emp_id is within a certain range  100  and  105.
+2. Find all employee that belong to a specific set of emp_id  151 , 152, 153, 154 , 155.
+3. Retrieve all employee where the employee first_name starts with the letter 'P' OR 'p'
+4. Retrieve all employee where the employee first_name end with the letter 'A' OR 'a'
+5. Retrieve all employee where the employee first_name with the letter 'A' OR 'a'
+6. Retrieve all employee where the employee first_name  third char with the letter 'e' OR 'E'
+7. Retrieve all employees who don't have a manager assigned (i.e., manager_id is NULL).
+8. Find all employees who have a manager assigned.
+9. Insert a new employee without assigning a manager (NULL value for manager_id).
+10. Find all employees who work either in the 'AD_VP' JOB_ID or the 'IT_PROG' JOB_ID.
+11. Retrieve all employees sorted by their last_name in ascending order.
+12. Retrieve all employees sorted by their hire_date in descending order.
+13. Sort employees first by department in ascending order and then by salary in descending order within each department_id.
+14. Retrieve all employees with their last_name in lowercase
+15. Retrieve all employees with their first_name in uppercase.
+16. Retrieve all employees with their first_name and last_name in title case (first letter capitalized).
+17. Find employees whose last_name is 'smith', regardless of the case.
