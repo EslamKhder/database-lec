@@ -1,0 +1,17 @@
+PLS create Player table with
+id name age
+- make id not null
+- make id unique
+- make name unique
+----------------------------------------------------
+pls create Manger with
+id name salary
+-id must be not null
+-id and name must be unique together
+
+-------------------------------------------------
+pls create Manger with
+id name age
+
+make id not null and unique (Primary Key)
+------------------------------------------------

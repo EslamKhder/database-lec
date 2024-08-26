@@ -1,0 +1,11 @@
+Pls create this tables with relation
+----------------------------------------
+create Teacher with 
+id name salary
+
+create Language with
+id name 
+
+Teacher has only Language
+Language has many Teacher
+

@@ -1,0 +1,12 @@
+Pls write java code
+----------------------------------------
+create Doctor with 
+id name salary
+
+create Patient with
+id name age
+
+doctor has many patient
+patient has many doctor
+
+- please create classes with relation

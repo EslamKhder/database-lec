@@ -1,0 +1,12 @@
+Pls write java code
+----------------------------------------
+create Employee with 
+id name age
+
+create Phone with
+id phoneNumber 
+
+Employee has only Phone
+Phone has only Employee
+
+- please create classes with relation
