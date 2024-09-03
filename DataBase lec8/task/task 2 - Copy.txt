@@ -1,0 +1,11 @@
+create user with yourname 
+
+you must add grant to do the next
+1- create session
+2 - create table Student with id , name
+3 - insert, select , update , delete
+go to hr schema and do the next
+- insert on Student table
+ select from Student table
+, update , delete
+4 - REVOKE all previllege 

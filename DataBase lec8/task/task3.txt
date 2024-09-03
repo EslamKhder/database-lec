@@ -1,0 +1,19 @@
+please use sub query 
+to get JOB_HISTORY that job id on this values 
+
+AD_ASST
+FI_MGR
+FI_ACCOUNT
+AC_MGR
+AC_ACCOUNT
+SA_MAN
+SA_REP
+PU_MAN
+
+and DEPARTMENTS with DEPARTMENT_NAME on this values 
+
+Administration
+Marketing
+Purchasing
+Human Resources
+Shipping

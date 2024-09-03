@@ -1,0 +1,12 @@
+in hr scema there exist 
+- LOCATIONS Table and COUNTRIES Table
+
+Please apply 
+
+- natural join
+- join with  using key word with column COUNTRY_ID
+- join with  on key word with column COUNTRY_ID
+- inner join with 
+- left join with 
+- right join with 
+- fulljoin with 
