@@ -1,0 +1,80 @@
+1. Character Functions – Part 3 (TRIM, LTRIM, RTRIM)
+Create a table customers with a full_name column. Insert names with extra spaces at the beginning and/or end.
+
+Write a query to remove both leading and trailing spaces from the names using TRIM.
+
+Display only the names with leading spaces removed using LTRIM.
+
+Display only the names with trailing spaces removed using RTRIM.
+
+Trim specific characters (e.g., $, *, or #) from both sides of a given string.
+
+----------------------
+2. Character Functions – Part 4 (REPLACE, LPAD, RPAD)
+Replace all occurrences of the letter 'o' with '0' in the word “promotion”.
+
+Replace the word “basic” with “advanced” in the sentence “This is a basic course”.
+
+Create a departments table with dept_name column. Insert at least 3 department names.
+
+Format each department name to 15 characters by padding with ‘*’ on the left using LPAD.
+
+Format each department name to 15 characters by padding with ‘-’ on the right using RPAD.
+--------------------------------
+3. TO_CHAR Function
+Display the current date in the format DD-MON-YYYY.
+
+Display the current date in the format Day, Month YYYY.
+
+Convert a number to a formatted string with commas and two decimal places using TO_CHAR.
+
+Format an employee’s salary to include a currency symbol using TO_CHAR.
+
+Display system date in the format: YYYY/MM/DD HH24:MI:SS.
+----------------------------------------
+4. Oracle Conditional Expressions – CASE Expressions
+Create a students table with name and score columns. Insert at least 5 records.
+
+Write a query using CASE to assign grades based on the score:
+
+90 and above: A
+
+80–89: B
+
+70–79: C
+
+Below 70: F
+
+Modify the query to display “Pass” if score is 60 or more, otherwise “Fail”.
+
+Use CASE to display a message for each student:
+
+"Excellent" for A, "Good" for B, "Average" for C, and "Needs Improvement" for F.
+
+Write a CASE expression using system date to return the name of the day (e.g., “Today is Monday”).
+------------------------------
+5. Oracle Conditional Expressions – DECODE Function
+Use DECODE to return grade letters ('A', 'B', 'C', 'F') based on specific score values (e.g., 100 = A, 90 = B, etc.).
+
+Create a status_log table with a status_code column containing values like ‘N’, ‘I’, ‘C’.
+
+Use DECODE to convert:
+
+‘N’ → ‘New’
+
+‘I’ → ‘In Progress’
+
+‘C’ → ‘Completed’
+
+Use DECODE to check if a product’s quantity is 0, and display “Out of Stock”, otherwise “Available”.
+
+Write a query using DECODE to display a bonus:
+
+If department is ‘HR’ → 500
+
+If department is ‘IT’ → 1000
+
+If department is ‘Sales’ → 1500
+
+Else → 300
+

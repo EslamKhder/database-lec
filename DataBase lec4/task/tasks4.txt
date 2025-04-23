@@ -1,0 +1,4 @@
+-- Q1. Create a table STUDENTS with columns: name, marks.
+-- Q2. Insert 5 sample students with marks.
+-- Q3. Use CASE to assign grades: 
+--     >=90 => 'A', 80–89 => 'B', 70–79 => 'C', else => 'F'
