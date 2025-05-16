@@ -32,15 +32,3 @@ AND salary <
 
 
 -----------------------------------------------------------------
-
-SELECT * FROM employees
-WHERE hire_date =
-                 (SELECT min(hire_date) FROM employees);
-                 
-SELECT * FROM employees
-WHERE hire_date =
-                 (SELECT max(hire_date) FROM employees);
-SELECT * FROM employees
-WHERE hire_date =
-                 (SELECT max(hire_date) FROM employees
-                    GROUP BY department_id);
