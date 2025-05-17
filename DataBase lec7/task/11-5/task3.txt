@@ -1,0 +1,20 @@
+Write a query to retrieve employee names and their manager names from the employees table, handling ambiguous column names for employee_id and manager_id.
+
+Write a query to list customer names and salesperson names from the customers and employees tables, where both tables have a column named name.
+
+Write a query to display order IDs and product IDs from orders and order_details, both of which have an order_id column.
+
+Write a query to retrieve student names and instructor names from students and instructors tables using an alias to handle the name column.
+
+Write a query to show employee salaries and department budgets, both of which have a budget or salary column that could conflict.
+
+Write a query to display project names and task names where both projects and tasks tables contain a name column.
+
+Write a query to join courses and exams tables and retrieve their date fields, resolving ambiguity between the columns.
+
+Write a query to show the product name and category name from the products and categories tables, where both have a name column.
+
+Write a query to display the book title and publisher name from books and publishers, avoiding column name conflicts.
+
+Write a query to list employee names and their department's location, resolving ambiguity in the location column from both tables.
+

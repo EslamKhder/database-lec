@@ -1,0 +1,19 @@
+Write a query to display the names of employees and their department names using a natural join.
+
+Write a query to list all orders with their corresponding customer names using a natural join.
+
+Write a query to show student names and the courses they are enrolled in using a natural join.
+
+Write a query to display project names and the employees working on them using a natural join.
+
+Write a query to retrieve invoice details along with product names using a natural join.
+
+Write a query to find all books with their respective author names using a natural join.
+
+Write a query to list all class schedules along with their instructors’ names using a natural join.
+
+Write a query to show supplier names and the products they supply using a natural join.
+
+Write a query to display customer orders along with shipping details using a natural join.
+
+Write a query to list employees along with their job titles using a natural join.

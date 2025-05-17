@@ -1,8 +1,10 @@
 SELECT first_name, SUBSTR(first_name,3,6), SUBSTR(first_name,3),
     last_name, LENGTH(last_name)
     FROM employees;
+	
 SELECT CONCAT(first_name,last_name)
     FROM employees;
+	
 SELECT CONCAT(CONCAT(first_name,last_name),employee_id)
     FROM employees;
 SELECT first_name || last_name || employee_id

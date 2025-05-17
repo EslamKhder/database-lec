@@ -1,0 +1,19 @@
+Write a query to display employee names and department names by joining the employees and departments tables using the USING clause on department_id.
+
+Write a query to list all orders and their corresponding customer names using the USING clause on customer_id.
+
+Write a query to retrieve product names and supplier names from the products and suppliers tables using the USING clause on supplier_id.
+
+Write a query to show student names and course titles by joining students and enrollments using the USING clause on student_id.
+
+Write a query to display invoice numbers and product names by joining invoices and products using the USING clause on product_id.
+
+Write a query to list project names and employee names using the USING clause on project_id.
+
+Write a query to retrieve author names and book titles using the USING clause on author_id.
+
+Write a query to show sales order details with employee names using the USING clause on employee_id.
+
+Write a query to display course schedules and instructor names using the USING clause on instructor_id.
+
+Write a query to list transactions along with account holder names using the USING clause on account_id.

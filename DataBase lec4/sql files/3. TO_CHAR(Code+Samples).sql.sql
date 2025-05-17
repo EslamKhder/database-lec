@@ -1,7 +1,6 @@
 SELECT first_name, hire_date FROM employees;
 SELECT first_name, hire_date, to_char(hire_date,'YYYY') "Formatted Date" FROM employees;
 SELECT first_name, hire_date, to_char(hire_date,'YY') "Formatted Date" FROM employees;
-SELECT first_name, hire_date, to_char(hire_date,'RR') "Formatted Date" FROM employees;
 SELECT first_name, hire_date, to_char(hire_date,'YEAR') "Formatted Date" FROM employees;
 SELECT first_name, hire_date, to_char(hire_date,'MM') "Formatted Date" FROM employees;
 SELECT first_name, hire_date, to_char(hire_date,'MM-YYYY') "Formatted Date" FROM employees;

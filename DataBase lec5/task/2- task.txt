@@ -1,5 +1,4 @@
-Pls write java code
-----------------------------------------
+
 create Doctor with 
 id name salary
 

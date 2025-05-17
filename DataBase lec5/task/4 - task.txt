@@ -1,5 +1,4 @@
-Pls write java code
-----------------------------------------
+
 create Employee with 
 id name age
 

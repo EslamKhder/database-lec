@@ -9,7 +9,7 @@ WHERE job_id = 'IT_PROG';
 
 SELECT first_name, UPPER(first_name), 
        last_name, LOWER(last_name), 
-       email, INITCAP(email),
+       email, INITCAP(email), -- Z
        UPPER('bmw i8')FROM employees
 WHERE job_id = 'IT_PROG';
 
