@@ -1,0 +1,24 @@
+💡 Oracle SQL – LEFT OUTER JOIN Coding Questions
+Retrieve all employees and their department names.
+Write an Oracle SQL query using LEFT OUTER JOIN to show all employees, including those who are not assigned to any department.
+
+List all products and their associated categories.
+Some products may not belong to any category. Write a query using LEFT JOIN to include all products regardless of category association.
+
+Find all students and the courses they are enrolled in.
+Use a LEFT OUTER JOIN to include students who are not enrolled in any course.
+
+Display all orders with customer names, including orders without a matched customer.
+Assume the orders table has a foreign key customer_id. Use LEFT JOIN to include all orders.
+
+Show all departments and their managers.
+Write a query to return all departments using a LEFT OUTER JOIN to show their assigned managers, including departments with no manager.
+
+List all books and their authors from the books and authors tables.
+Include books that don’t have an assigned author using a LEFT JOIN.
+
+Write a query that retrieves all invoices along with their corresponding payment status.
+Use LEFT JOIN to include invoices with no payment.
+
+Get all employees and their projects from employees and projects_assigned tables.
+Include employees who are not assigned to any project.

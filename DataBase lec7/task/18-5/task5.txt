@@ -1,0 +1,30 @@
+💡 Oracle SQL – Single Row Subqueries Coding Questions
+Find the employee(s) with the highest salary.
+Use a single-row subquery to get the maximum salary.
+
+List the names of employees who work in the same department as employee 'Alice'.
+Use a subquery to get the department ID of 'Alice'.
+
+Display the details of the product with the lowest price.
+Use a single-row subquery to get the minimum price.
+
+Retrieve the department name of the employee with the highest salary.
+Use nested subqueries: one to find the employee, and one to find the department.
+
+Find the manager of the employee who was hired most recently.
+Use a subquery to get the employee with the latest hire date.
+
+Show the employee whose salary is equal to the average salary of the company.
+Use a single-row subquery with AVG().
+
+List the order(s) with the earliest order date.
+Use a subquery to get the minimum order date.
+
+Get the name and salary of the employee who earns more than the employee with ID = 101.
+Use a single-row subquery to get the salary of employee 101.
+
+Find the student who has the same GPA as student 'John Doe'.
+Use a subquery to get 'John Doe’s GPA'.
+
+Display all books that have the same price as the most expensive book in the ‘Science’ category.
+Use a subquery to find the max price from the 'Science' category.

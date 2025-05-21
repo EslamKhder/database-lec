@@ -1,0 +1,24 @@
+💡 Oracle SQL – RIGHT OUTER JOIN Coding Questions
+List all departments and the employees working in them.
+Use a RIGHT OUTER JOIN to ensure all departments are shown, even if they have no employees.
+
+Retrieve all orders and their corresponding customers.
+Use a RIGHT JOIN to include all customers, even if they haven't placed any orders.
+
+Show all courses and enrolled students.
+Use RIGHT JOIN to return all courses, including those without any enrolled students.
+
+Display all projects and the employees assigned to them.
+Use a RIGHT OUTER JOIN to include all projects even if no employee is assigned.
+
+Write a query to show all payment methods and their related transactions.
+Include payment methods with no transactions using RIGHT JOIN.
+
+Find all authors and their books.
+Use a RIGHT OUTER JOIN to list all authors, even those who haven't written any books.
+
+List all categories and the products under them.
+Use a RIGHT JOIN to ensure all categories are shown, even those with no products.
+
+Retrieve all students and their assigned dorm rooms.
+Use a RIGHT OUTER JOIN to include dorm rooms even if they are unassigned.

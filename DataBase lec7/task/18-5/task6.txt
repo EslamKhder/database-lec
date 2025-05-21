@@ -1,0 +1,30 @@
+💡 Oracle SQL – Multiple Row Subqueries Coding Questions
+Find all employees who earn more than at least one employee in department 10.
+Use a subquery with ANY or SOME.
+
+List the employees who earn less than all employees in department 20.
+Use a subquery with ALL.
+
+Display products that have a price equal to any product in the 'Electronics' category.
+Use a subquery inside an IN clause.
+
+Retrieve names of customers who have placed an order for a product with price greater than $1000.
+Use a subquery with IN or EXISTS.
+
+List the employees who work in the same job titles as at least one other employee.
+Use a subquery with IN on job titles.
+
+Find the departments that have more than one employee.
+Use a subquery with GROUP BY and HAVING, or join with a subquery returning multiple department IDs.
+
+Show all orders placed by customers who are from cities where other customers have placed orders too.
+Use a correlated subquery or a multiple-row subquery with IN.
+
+List all books that were written by authors who have published more than one book.
+Use a subquery with GROUP BY and HAVING.
+
+Display the names of students who are enrolled in any of the courses taught by professor 'Dr. Smith'.
+Use a subquery to get course IDs.
+
+Retrieve all employees whose salary matches any of the salaries in department 30.
+Use a subquery with IN.

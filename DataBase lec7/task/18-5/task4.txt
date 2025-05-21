@@ -1,0 +1,30 @@
+💡 Oracle SQL – Subqueries Coding Questions
+Find the names of employees who earn more than the average salary.
+Use a subquery to calculate the average salary.
+
+List the customers who placed the highest number of orders.
+Use a subquery to count orders per customer and compare with the max count.
+
+Retrieve all products whose price is higher than any product in the ‘Accessories’ category.
+Use a subquery inside a WHERE clause with ANY.
+
+Display employees who work in the same department as 'John Smith'.
+Use a subquery to get John Smith’s department ID.
+
+Get all orders that were placed by customers from 'New York'.
+Use a subquery to filter customers based on city.
+
+Find the departments that have no employees.
+Use a NOT EXISTS subquery to check for departments without employees.
+
+List the students who are not enrolled in any course.
+Use a subquery with NOT IN or NOT EXISTS.
+
+Retrieve the second highest salary from the employees table.
+Use a subquery with MAX and WHERE.
+
+Display products that have a price greater than the average price of all products.
+Use a scalar subquery to get the average price.
+
+Find customers who have ordered all products in category 'A'.
+Use a correlated subquery with NOT EXISTS.
