@@ -1,8 +1,11 @@
 sqlplus / as sysdba;
+alter session set container=orclpdb;
 SELECT USER FROM DUAL;
+
 CREATE USER SCHOOL_USER IDENTIFIED BY 123;
+
 ALTER USER SCHOOL_USER IDENTIFIED BY abc123;
-DROP USER SCHOOL_USER;
+DROP USER SCHOOL_USER cascade;
 GRANT CREATE SESSION TO SCHOOL_USER;
 
 CREATE TABLE TEST (
@@ -12,7 +15,17 @@ CREATE TABLE TEST (
 
 GRANT CREATE TABLE to SCHOOL_USER;
 
+INSERT INTO SCHOOL_USER.TEST (id, name) VALUES (1,'eslam');
+
+🧱 What is a Tablespace in Oracle?
+A tablespace is a logical storage unit in an Oracle database. It acts like a container that holds data for tables, indexes, and other database objects.
+
+In Oracle Database, a quota is the amount of space a user is allowed to use within a specific tablespace.
+
+
 ALTER USER SCHOOL_USER QUOTA UNLIMITED ON USERS;
+
+
 /*
 This command is generally used by a database administrator (DBA) 
 to allow a user to create and store objects (like tables, etc.) \ 
@@ -30,7 +43,6 @@ SELECT * FROM SCHOOL_USER.TEST;
 
 --on SCHOOL_USER
 GRANT INSERT ON SCHOOL_USER.TEST to hr;
-
 GRANT DELETE ON SCHOOL_USER.TEST to hr;
 GRANT SELECT  ON SCHOOL_USER.TEST to hr;
 GRANT UPDATE ON SCHOOL_USER.TEST to hr;
@@ -49,4 +61,5 @@ REVOKE  CREATE SESSION FROM  SCHOOL_USER;
 
 
 
-DROP USER SCHOOL_USER;
+DROP USER SCHOOL_USER cascade;
+CASCADE: Ensures that all schema objects (like tables, views, procedures, etc.) owned by SCHOOL_USER are also deleted. Without CASCADE, the command would fail if the user owns any objects.
