@@ -1,10 +1,16 @@
-SELECT first_name, REPLACE(first_name,'a') rpl FROM employees;
-SELECT first_name, REPLACE(first_name,'a','-') rpl FROM employees;
-SELECT first_name, REPLACE(first_name,'le','-') rpl FROM employees;
-SELECT first_name, REPLACE(first_name,'und','-') rpl FROM employees;
-SELECT first_name, lpad(first_name,10,'*') pad FROM employees;
-SELECT first_name, rpad(first_name,10,'*') pad FROM employees;
-SELECT first_name, rpad(first_name,6,'*') pad FROM employees;
-SELECT first_name, lpad(first_name,6,'*') pad FROM employees;
-SELECT first_name, lpad('My name is ',20,'-') pad FROM employees;
-SELECT first_name, lpad('My name is '||last_name ,20,'-') pad FROM employees;
+pls search about sql injection and catch where on project then give me solution
+on item controller pls remove duplicated code give me solution
+-----------------------------------------------------------
+* add new button on show items page to add item details
+* show button  add item details based on if you have row ore not
+* bug when delete item get error you must delete first item details if       	exist then delete item
+* add new button update item details
+---------------------------------------------------------------------
+login page apply cookies and session with and logout
+create file for login (front-end) go to items
+create file for signup (front-end)
+TODO i need to apply signup feature
+TODO i need to apply login feature
+--------------------------------------------------------------------------------------------------
+apply session for login and signup
+
