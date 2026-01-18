@@ -20,7 +20,6 @@ VALUES('DATA_ARCH','Data Architecture',8000);
 
 ALTER TABLE jobs_copy MODIFY max_salary DEFAULT 10000;
 
-INFO jobs;
 
 INSERT INTO jobs_copy (job_id, job_title, min_salary)
 VALUES('DATA_ARCH2','Data Architecture2',8000);
