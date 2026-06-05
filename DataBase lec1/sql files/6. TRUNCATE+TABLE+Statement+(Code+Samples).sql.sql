@@ -13,3 +13,5 @@ DELETE FROM employees_test;
 TRUNCATE TABLE employees_test;
 
 DROP TABLE employees_test;
+
+delete row 105
