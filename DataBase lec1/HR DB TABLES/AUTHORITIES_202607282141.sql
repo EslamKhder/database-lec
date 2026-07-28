@@ -1,0 +1,5 @@
+INSERT INTO HR.AUTHORITIES (USERNAME,AUTHORITY) VALUES
+	 ('ahmed','ROLE_USER'),
+	 ('ali','ROLE_ADMIN'),
+	 ('ali','ROLE_MANGER'),
+	 ('eslam','ROLE_ADMIN');

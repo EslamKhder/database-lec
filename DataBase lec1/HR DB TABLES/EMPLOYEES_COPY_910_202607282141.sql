@@ -1,0 +1,118 @@
+INSERT INTO HR.EMPLOYEES_COPY_910 (NAME,SURNAME,SALARY,ANNUAL_SALARY) VALUES
+	 (NULL,'ayman',1000,12000),
+	 ('mohamed','KING',1000,12000),
+	 ('aLi','motaz',1000,12000),
+	 ('mohamed','king',1000,12000),
+	 ('ali','osama',6000,72000),
+	 ('osama','Austin',24000,288000),
+	 ('Valli','Pataballa',4800,57600),
+	 ('Diana','Lorentz',4200,50400),
+	 ('Nancy','Greenberg',12008,144096),
+	 ('Daniel','Faviet',9000,108000);
+INSERT INTO HR.EMPLOYEES_COPY_910 (NAME,SURNAME,SALARY,ANNUAL_SALARY) VALUES
+	 ('John','Chen',8200,98400),
+	 ('ismael ali','Sciarra',7700,92400),
+	 ('ismael m','Urman',7800,93600),
+	 ('Luisaa','Popp',6900,82800),
+	 ('aaDen','Raphaely',11000,132000),
+	 ('Alexander','Khoo',3100,37200),
+	 ('Shelli','Baida',2900,34800),
+	 ('Sigal','Tobias',2800,33600),
+	 ('Guy','Himuro',2600,31200),
+	 ('Karen','Colmenares',2500,30000);
+INSERT INTO HR.EMPLOYEES_COPY_910 (NAME,SURNAME,SALARY,ANNUAL_SALARY) VALUES
+	 ('Matthew','Weiss',8000,96000),
+	 ('Ahmed mohamed','Fripp',8200,98400),
+	 ('zohamed Ahmed','Kaufling',7900,94800),
+	 ('ali Ahmed  mohamed','Vollman',6500,78000),
+	 ('Kevin','Mourgos',5800,69600),
+	 ('Julia','Nayer',3200,38400),
+	 ('Irene','Mikkilineni',2700,32400),
+	 ('James','Landry',2400,28800),
+	 ('Steven','Markle',2200,26400),
+	 ('Laura','Bissot',3300,39600);
+INSERT INTO HR.EMPLOYEES_COPY_910 (NAME,SURNAME,SALARY,ANNUAL_SALARY) VALUES
+	 ('Mozhe','Atkinson',2800,33600),
+	 ('James','Marlow',2500,30000),
+	 ('ai','Olson',2100,25200),
+	 ('Jason','Mallin',3300,39600),
+	 ('Michael zawe','Rogers',2900,34800),
+	 ('Ki','Gee',2400,28800),
+	 ('Hazel','Philtanker',2200,26400),
+	 ('Renske','Ladwig',3600,43200),
+	 ('Stephen','Stiles',3200,38400),
+	 ('John','Seo',2700,32400);
+INSERT INTO HR.EMPLOYEES_COPY_910 (NAME,SURNAME,SALARY,ANNUAL_SALARY) VALUES
+	 ('Joshua','Patel',2500,30000),
+	 ('Trenna','Rajs',3500,42000),
+	 ('Curtis','Davies',3100,37200),
+	 ('Randall','Matos',2600,31200),
+	 ('Peter','Vargas',6000,72000),
+	 ('John','Russell',14000,168000),
+	 ('Karen','Partners',13500,162000),
+	 ('Alberto','Errazuriz',12000,144000),
+	 ('Gerald','Cambrault',11000,132000),
+	 ('Eleni','Zlotkey',10500,126000);
+INSERT INTO HR.EMPLOYEES_COPY_910 (NAME,SURNAME,SALARY,ANNUAL_SALARY) VALUES
+	 ('Peter','Tucker',10000,120000),
+	 ('David','Bernstein',9500,114000),
+	 ('Peter','Hall',9000,108000),
+	 ('Christopher','Olsen',8000,96000),
+	 ('Nanette','Cambrault',7000,84000),
+	 ('Oliver','Tuvault',7000,84000),
+	 ('Janette','King',10000,120000),
+	 ('Patrick','Sully',9500,114000),
+	 ('Allan','McEwen',9000,108000),
+	 ('Lindsey','Smith',8000,96000);
+INSERT INTO HR.EMPLOYEES_COPY_910 (NAME,SURNAME,SALARY,ANNUAL_SALARY) VALUES
+	 ('Louise','Doran',7500,90000),
+	 ('Sarath','Sewall',7000,84000),
+	 ('Clara','Vishney',10500,126000),
+	 ('Danielle','Greene',9500,114000),
+	 ('Mattea','Marvins',7200,86400),
+	 ('David','Lee',6800,81600),
+	 ('Sundar','Ande',6400,76800),
+	 ('Amit','Banda',6200,74400),
+	 ('Lisa','Ozer',11500,138000),
+	 ('Harrison','Bloom',10000,120000);
+INSERT INTO HR.EMPLOYEES_COPY_910 (NAME,SURNAME,SALARY,ANNUAL_SALARY) VALUES
+	 ('Tayler','Fox',9600,115200),
+	 ('William','Gietz',7400,88800),
+	 ('Elizabeth','Bates',7300,87600),
+	 ('Sundita','Kumar',6100,73200),
+	 ('Ellen','Abel',11000,132000),
+	 ('Alyssa','Hutton',8800,105600),
+	 ('Jonathon','Taylor',8600,103200),
+	 ('Jack','Livingston',8400,100800),
+	 ('Kimberely','Grant',7000,84000),
+	 ('Charles','Johnson',6200,74400);
+INSERT INTO HR.EMPLOYEES_COPY_910 (NAME,SURNAME,SALARY,ANNUAL_SALARY) VALUES
+	 ('Winston','Taylor',3200,38400),
+	 ('Jean','Fleaur',3100,37200),
+	 ('Martha','Sullivan',2500,30000),
+	 ('Girard','Geoni',2800,33600),
+	 ('Nandita','Sarchand',4200,50400),
+	 ('Alexander','Hunold',4100,49200),
+	 ('Julia','Dellinger',3400,40800),
+	 ('Anthony','Cabrio',3000,36000),
+	 ('Kelly','Chung',3800,45600),
+	 ('Jennifer','Dilly',3600,43200);
+INSERT INTO HR.EMPLOYEES_COPY_910 (NAME,SURNAME,SALARY,ANNUAL_SALARY) VALUES
+	 ('Timothy','Gates',2900,34800),
+	 ('Randall','Perkins',2500,30000),
+	 ('Sarah','Bell',4000,48000),
+	 ('Britney','Everett',3900,46800),
+	 ('Samuel','McCain',3200,38400),
+	 ('Vance','Jones',2800,33600),
+	 ('Aaana','Walsh',3100,37200),
+	 ('Kevin','Feeney',3000,36000),
+	 ('Donald','OConnell',2600,31200),
+	 ('Douglas','Grant',2600,31200);
+INSERT INTO HR.EMPLOYEES_COPY_910 (NAME,SURNAME,SALARY,ANNUAL_SALARY) VALUES
+	 ('Jennifer','Whalen',4400,52800),
+	 ('Michael','Hartstein',13000,156000),
+	 ('PatA','Fay',4200,50400),
+	 ('Susan','Mavris',6500,78000),
+	 ('Hermann','Baer',10000,120000),
+	 ('Shelley','Higgins',12008,144096),
+	 ('William','Gietz',2000,24000);

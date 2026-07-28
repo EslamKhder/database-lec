@@ -1,0 +1,3 @@
+INSERT INTO HR.EMAIL_SCHOOL (ID,EMAIL,STUDENTSCHOOL_ID) VALUES
+	 (1,'ahmed@gmail',1),
+	 (2,'ahmed@gmail',1);

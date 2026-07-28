@@ -1,0 +1,4 @@
+INSERT INTO HR.COURSE1 (ID,COURSE_NAME,PRICE) VALUES
+	 (10,'arabic',100),
+	 (20,'Math',200),
+	 (30,'english',300);

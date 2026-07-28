@@ -1,0 +1,4 @@
+INSERT INTO HR.ERAA_SOFT_SCHOOL (AGE,ID,PASSWORD,USER_NAME) VALUES
+	 (25,21,'StrongPass123','Ahmed Ali'),
+	 (25,22,'StrongPass123','Ahmed Ali1'),
+	 (12,1,'2223','323');

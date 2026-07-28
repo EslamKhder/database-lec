@@ -1,0 +1,5 @@
+INSERT INTO HR.PHONES (ID,PHONE,USER_ID) VALUES
+	 (1,'01123',1),
+	 (2,'015',1),
+	 (3,'011',3),
+	 (4,'020',NULL);

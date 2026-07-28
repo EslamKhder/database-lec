@@ -1,0 +1,3 @@
+INSERT INTO HR.TEST_910_1 (C1,C2) VALUES
+	 ('11','11'),
+	 ('22','22');

@@ -1,0 +1,3 @@
+INSERT INTO HR.APPLICATION (ID,APP_NAME) VALUES
+	 (1,'app1'),
+	 (2,'app2');

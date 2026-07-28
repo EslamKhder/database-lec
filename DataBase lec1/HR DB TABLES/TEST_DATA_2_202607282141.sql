@@ -1,0 +1,118 @@
+INSERT INTO HR.TEST_DATA_2 (F_N,L_N,S) VALUES
+	 ('David','King',1000),
+	 ('Neena      ','KING',NULL),
+	 ('Lex        ','king',NULL),
+	 ('Alexander','Hunold',9000),
+	 ('Bruce','Ernst',6000),
+	 ('ali','Austin',24000),
+	 ('Valli','Pataballa',4800),
+	 ('Diana','Lorentz',4200),
+	 ('Nancy','Greenberg',12008),
+	 ('Daniel','Faviet',9000);
+INSERT INTO HR.TEST_DATA_2 (F_N,L_N,S) VALUES
+	 ('John','Chen',8200),
+	 ('ismael ali','Sciarra',7700),
+	 ('ismael mohamed','Urman',7800),
+	 ('Luis','Popp',6900),
+	 ('Den','Raphaely',11000),
+	 ('Alexander','Khoo',3100),
+	 ('Shelli','Baida',2900),
+	 ('Sigal','Tobias',2800),
+	 ('Guy','Himuro',2600),
+	 ('Karen','Colmenares',2500);
+INSERT INTO HR.TEST_DATA_2 (F_N,L_N,S) VALUES
+	 ('Matthew','Weiss',8000),
+	 ('Adam','Fripp',8200),
+	 ('Payam','Kaufling',7900),
+	 ('Shanta','Vollman',6500),
+	 ('Kevin','Mourgos',5800),
+	 ('Julia','Nayer',3200),
+	 ('Irene','Mikkilineni',2700),
+	 ('James','Landry',2400),
+	 ('Steven','Markle',2200),
+	 ('Laura','Bissot',3300);
+INSERT INTO HR.TEST_DATA_2 (F_N,L_N,S) VALUES
+	 ('Mozhe','Atkinson',2800),
+	 ('James','Marlow',2500),
+	 ('TJ','Olson',2100),
+	 ('Jason','Mallin',3300),
+	 ('Michael','Rogers',2900),
+	 ('Ki','Gee',2400),
+	 ('Hazel','Philtanker',2200),
+	 ('Renske','Ladwig',3600),
+	 ('Stephen','Stiles',3200),
+	 ('John','Seo',2700);
+INSERT INTO HR.TEST_DATA_2 (F_N,L_N,S) VALUES
+	 ('Joshua','Patel',2500),
+	 ('Trenna','Rajs',3500),
+	 ('Curtis','Davies',3100),
+	 ('Randall','Matos',2600),
+	 ('Peter','Vargas',2500),
+	 ('John','Russell',14000),
+	 ('Karen','Partners',13500),
+	 ('Alberto','Errazuriz',12000),
+	 ('Gerald','Cambrault',11000),
+	 ('Eleni','Zlotkey',10500);
+INSERT INTO HR.TEST_DATA_2 (F_N,L_N,S) VALUES
+	 ('Peter','Tucker',10000),
+	 ('David','Bernstein',9500),
+	 ('Peter','Hall',9000),
+	 ('Christopher','Olsen',8000),
+	 ('Nanette','Cambrault',7500),
+	 ('Oliver','Tuvault',7000),
+	 ('Janette','King',10000),
+	 ('Patrick','Sully',9500),
+	 ('Allan','McEwen',9000),
+	 ('Lindsey','Smith',8000);
+INSERT INTO HR.TEST_DATA_2 (F_N,L_N,S) VALUES
+	 ('Louise','Doran',7500),
+	 ('Sarath','Sewall',7000),
+	 ('Clara','Vishney',10500),
+	 ('Danielle','Greene',9500),
+	 ('Mattea','Marvins',7200),
+	 ('David','Lee',6800),
+	 ('Sundar','Ande',6400),
+	 ('Amit','Banda',6200),
+	 ('Lisa','Ozer',11500),
+	 ('Harrison','Bloom',10000);
+INSERT INTO HR.TEST_DATA_2 (F_N,L_N,S) VALUES
+	 ('Tayler','Fox',9600),
+	 ('William','Gietz',7400),
+	 ('Elizabeth','Bates',7300),
+	 ('Sundita','Kumar',6100),
+	 ('Ellen','Abel',11000),
+	 ('Alyssa','Hutton',8800),
+	 ('Jonathon','Taylor',8600),
+	 ('Jack','Livingston',8400),
+	 ('Kimberely','Grant',7000),
+	 ('Charles','Johnson',6200);
+INSERT INTO HR.TEST_DATA_2 (F_N,L_N,S) VALUES
+	 ('Winston','Taylor',3200),
+	 ('Jean','Fleaur',3100),
+	 ('Martha','Sullivan',2500),
+	 ('Girard','Geoni',2800),
+	 ('Nandita','Sarchand',4200),
+	 ('Alexander','Hunold',4100),
+	 ('Julia','Dellinger',3400),
+	 ('Anthony','Cabrio',3000),
+	 ('Kelly','Chung',3800),
+	 ('Jennifer','Dilly',3600);
+INSERT INTO HR.TEST_DATA_2 (F_N,L_N,S) VALUES
+	 ('Timothy','Gates',2900),
+	 ('Randall','Perkins',2500),
+	 ('Sarah','Bell',4000),
+	 ('Britney','Everett',3900),
+	 ('Samuel','McCain',3200),
+	 ('Vance','Jones',2800),
+	 ('Aaana','Walsh',3100),
+	 ('Kevin','Feeney',3000),
+	 ('Donald','OConnell',2600),
+	 ('Douglas','Grant',2600);
+INSERT INTO HR.TEST_DATA_2 (F_N,L_N,S) VALUES
+	 ('Jennifer','Whalen',4400),
+	 ('Michael','Hartstein',13000),
+	 ('Pat','Fay',6000),
+	 ('Susan','Mavris',6500),
+	 ('Hermann','Baer',10000),
+	 ('Shelley','Higgins',12008),
+	 ('William','Gietz',8300);

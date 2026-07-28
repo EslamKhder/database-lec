@@ -1,0 +1,118 @@
+INSERT INTO HR.EMPLOYEES_BACKUP_V1 (F_NAME,LAST_NAME) VALUES
+	 ('Ellen','Abel'),
+	 ('Sundar','Ande'),
+	 ('Mozhe','Atkinson'),
+	 ('osama','Austin'),
+	 ('Hermann','Baer'),
+	 ('Shelli','Baida'),
+	 ('Amit','Banda'),
+	 ('Elizabeth','Bates'),
+	 ('Sarah','Bell'),
+	 ('David','Bernstein');
+INSERT INTO HR.EMPLOYEES_BACKUP_V1 (F_NAME,LAST_NAME) VALUES
+	 ('Laura','Bissot'),
+	 ('Harrison','Bloom'),
+	 ('Anthony','Cabrio'),
+	 ('Gerald','Cambrault'),
+	 ('Nanette','Cambrault'),
+	 ('John','Chen'),
+	 ('Kelly','Chung'),
+	 ('Karen','Colmenares'),
+	 ('Curtis','Davies'),
+	 ('Julia','Dellinger');
+INSERT INTO HR.EMPLOYEES_BACKUP_V1 (F_NAME,LAST_NAME) VALUES
+	 ('Jennifer','Dilly'),
+	 ('Louise','Doran'),
+	 ('Alberto','Errazuriz'),
+	 ('Britney','Everett'),
+	 ('Daniel','Faviet'),
+	 ('PatA','Fay'),
+	 ('Kevin','Feeney'),
+	 ('Jean','Fleaur'),
+	 ('Tayler','Fox'),
+	 ('Ahmed mohamed','Fripp');
+INSERT INTO HR.EMPLOYEES_BACKUP_V1 (F_NAME,LAST_NAME) VALUES
+	 ('Timothy','Gates'),
+	 ('Ki','Gee'),
+	 ('Girard','Geoni'),
+	 ('William','Gietz'),
+	 ('William','Gietz'),
+	 ('Douglas','Grant'),
+	 ('Kimberely','Grant'),
+	 ('Nancy','Greenberg'),
+	 ('Danielle','Greene'),
+	 ('Peter','Hall');
+INSERT INTO HR.EMPLOYEES_BACKUP_V1 (F_NAME,LAST_NAME) VALUES
+	 ('Michael','Hartstein'),
+	 ('Shelley','Higgins'),
+	 ('Guy','Himuro'),
+	 ('Alexander','Hunold'),
+	 ('Alyssa','Hutton'),
+	 ('Charles','Johnson'),
+	 ('Vance','Jones'),
+	 ('mohamed','KING'),
+	 ('zohamed Ahmed','Kaufling'),
+	 ('Alexander','Khoo');
+INSERT INTO HR.EMPLOYEES_BACKUP_V1 (F_NAME,LAST_NAME) VALUES
+	 ('Janette','King'),
+	 ('Sundita','Kumar'),
+	 ('Renske','Ladwig'),
+	 ('James','Landry'),
+	 ('David','Lee'),
+	 ('Jack','Livingston'),
+	 ('Diana','Lorentz'),
+	 ('Jason','Mallin'),
+	 ('Steven','Markle'),
+	 ('James','Marlow');
+INSERT INTO HR.EMPLOYEES_BACKUP_V1 (F_NAME,LAST_NAME) VALUES
+	 ('Mattea','Marvins'),
+	 ('Randall','Matos'),
+	 ('Susan','Mavris'),
+	 ('Samuel','McCain'),
+	 ('Allan','McEwen'),
+	 ('Irene','Mikkilineni'),
+	 ('Kevin','Mourgos'),
+	 ('Julia','Nayer'),
+	 ('Donald','OConnell'),
+	 ('Christopher','Olsen');
+INSERT INTO HR.EMPLOYEES_BACKUP_V1 (F_NAME,LAST_NAME) VALUES
+	 ('ai','Olson'),
+	 ('Lisa','Ozer'),
+	 ('Karen','Partners'),
+	 ('Valli','Pataballa'),
+	 ('Joshua','Patel'),
+	 ('Randall','Perkins'),
+	 ('Hazel','Philtanker'),
+	 ('Luisaa','Popp'),
+	 ('Trenna','Rajs'),
+	 ('aaDen','Raphaely');
+INSERT INTO HR.EMPLOYEES_BACKUP_V1 (F_NAME,LAST_NAME) VALUES
+	 ('Michael zawe','Rogers'),
+	 ('John','Russell'),
+	 ('Nandita','Sarchand'),
+	 ('ismael ali','Sciarra'),
+	 ('John','Seo'),
+	 ('Sarath','Sewall'),
+	 ('Lindsey','Smith'),
+	 ('Stephen','Stiles'),
+	 ('Martha','Sullivan'),
+	 ('Patrick','Sully');
+INSERT INTO HR.EMPLOYEES_BACKUP_V1 (F_NAME,LAST_NAME) VALUES
+	 ('Jonathon','Taylor'),
+	 ('Winston','Taylor'),
+	 ('Sigal','Tobias'),
+	 ('Peter','Tucker'),
+	 ('Oliver','Tuvault'),
+	 ('ismael m','Urman'),
+	 ('Peter','Vargas'),
+	 ('Clara','Vishney'),
+	 ('ali Ahmed  mohamed','Vollman'),
+	 ('Aaana','Walsh');
+INSERT INTO HR.EMPLOYEES_BACKUP_V1 (F_NAME,LAST_NAME) VALUES
+	 ('Matthew','Weiss'),
+	 ('Jennifer','Whalen'),
+	 ('Eleni','Zlotkey'),
+	 (NULL,'ayman'),
+	 ('mohamed','king'),
+	 ('aLi','motaz'),
+	 ('ali','osama');

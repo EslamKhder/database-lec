@@ -1,0 +1,6 @@
+INSERT INTO HR.DEPARTMENT_COPY (DEPARTMENT_ID,DEPARTMENT_NAME,MANAGER_ID,LOCATION_ID) VALUES
+	 (90,'Administration',100,1700),
+	 (60,'Marketing',102,1800),
+	 (90,'Purchasing',114,1700),
+	 (40,'Human Resources',103,2400),
+	 (NULL,'Human Resources',NULL,2400);

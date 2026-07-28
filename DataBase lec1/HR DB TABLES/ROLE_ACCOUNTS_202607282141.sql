@@ -1,0 +1,7 @@
+INSERT INTO HR.ROLE_ACCOUNTS (ACCOUNTS_ID,ROLES_ID) VALUES
+	 (1,2),
+	 (1,3),
+	 (6,2),
+	 (5,2),
+	 (5,3),
+	 (7,2);

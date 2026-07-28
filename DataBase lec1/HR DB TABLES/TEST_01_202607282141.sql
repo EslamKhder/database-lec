@@ -1,0 +1,3 @@
+INSERT INTO HR.TEST_01 (ID,NAME) VALUES
+	 (1,'454'),
+	 (1,'44');

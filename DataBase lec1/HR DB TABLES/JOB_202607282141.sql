@@ -1,0 +1,3 @@
+INSERT INTO HR.JOB (ID,ADDRESS_NAME) VALUES
+	 (1,'j1'),
+	 (2,'j2');

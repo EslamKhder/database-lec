@@ -1,0 +1,4 @@
+INSERT INTO HR.COURSES_SC (ID,CODE) VALUES
+	 (1,'AR'),
+	 (2,'EN'),
+	 (3,'MATH');

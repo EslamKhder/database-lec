@@ -1,0 +1,118 @@
+INSERT INTO HR.EMPLOYEES_907_5 (ID,F_NAME,L_NAME) VALUES
+	 (100,NULL,'ayman'),
+	 (101,'mohamed','KING'),
+	 (102,'aLi','motaz'),
+	 (103,'mohamed','king'),
+	 (104,'ali','osama'),
+	 (105,'osama','Austin'),
+	 (106,'Valli','Pataballa'),
+	 (107,'Diana','Lorentz'),
+	 (108,'Nancy','Greenberg'),
+	 (109,'Daniel','Faviet');
+INSERT INTO HR.EMPLOYEES_907_5 (ID,F_NAME,L_NAME) VALUES
+	 (110,'John','Chen'),
+	 (111,'ismael ali','Sciarra'),
+	 (112,'ismael m','Urman'),
+	 (113,'Luisaa','Popp'),
+	 (114,'aaDen','Raphaely'),
+	 (115,'Alexander','Khoo'),
+	 (116,'Shelli','Baida'),
+	 (117,'Sigal','Tobias'),
+	 (118,'Guy','Himuro'),
+	 (119,'Karen','Colmenares');
+INSERT INTO HR.EMPLOYEES_907_5 (ID,F_NAME,L_NAME) VALUES
+	 (120,'Matthew','Weiss'),
+	 (121,'Ahmed mohamed','Fripp'),
+	 (122,'zohamed Ahmed','Kaufling'),
+	 (123,'ali Ahmed  mohamed','Vollman'),
+	 (124,'Kevin','Mourgos'),
+	 (125,'Julia','Nayer'),
+	 (126,'Irene','Mikkilineni'),
+	 (127,'James','Landry'),
+	 (128,'Steven','Markle'),
+	 (129,'Laura','Bissot');
+INSERT INTO HR.EMPLOYEES_907_5 (ID,F_NAME,L_NAME) VALUES
+	 (130,'Mozhe','Atkinson'),
+	 (131,'James','Marlow'),
+	 (132,'ai','Olson'),
+	 (133,'Jason','Mallin'),
+	 (134,'Michael','Rogers'),
+	 (135,'Ki','Gee'),
+	 (136,'Hazel','Philtanker'),
+	 (137,'Renske','Ladwig'),
+	 (138,'Stephen','Stiles'),
+	 (139,'John','Seo');
+INSERT INTO HR.EMPLOYEES_907_5 (ID,F_NAME,L_NAME) VALUES
+	 (140,'Joshua','Patel'),
+	 (141,'Trenna','Rajs'),
+	 (142,'Curtis','Davies'),
+	 (143,'Randall','Matos'),
+	 (144,'Peter','Vargas'),
+	 (145,'John','Russell'),
+	 (146,'Karen','Partners'),
+	 (147,'Alberto','Errazuriz'),
+	 (148,'Gerald','Cambrault'),
+	 (149,'Eleni','Zlotkey');
+INSERT INTO HR.EMPLOYEES_907_5 (ID,F_NAME,L_NAME) VALUES
+	 (150,'Peter','Tucker'),
+	 (151,'David','Bernstein'),
+	 (152,'Peter','Hall'),
+	 (153,'Christopher','Olsen'),
+	 (154,'Nanette','Cambrault'),
+	 (155,'Oliver','Tuvault'),
+	 (156,'Janette','King'),
+	 (157,'Patrick','Sully'),
+	 (158,'Allan','McEwen'),
+	 (159,'Lindsey','Smith');
+INSERT INTO HR.EMPLOYEES_907_5 (ID,F_NAME,L_NAME) VALUES
+	 (160,'Louise','Doran'),
+	 (161,'Sarath','Sewall'),
+	 (162,'Clara','Vishney'),
+	 (163,'Danielle','Greene'),
+	 (164,'Mattea','Marvins'),
+	 (165,'David','Lee'),
+	 (166,'Sundar','Ande'),
+	 (167,'Amit','Banda'),
+	 (168,'Lisa','Ozer'),
+	 (169,'Harrison','Bloom');
+INSERT INTO HR.EMPLOYEES_907_5 (ID,F_NAME,L_NAME) VALUES
+	 (170,'Tayler','Fox'),
+	 (171,'William','Gietz'),
+	 (172,'Elizabeth','Bates'),
+	 (173,'Sundita','Kumar'),
+	 (174,'Ellen','Abel'),
+	 (175,'Alyssa','Hutton'),
+	 (176,'Jonathon','Taylor'),
+	 (177,'Jack','Livingston'),
+	 (178,'Kimberely','Grant'),
+	 (179,'Charles','Johnson');
+INSERT INTO HR.EMPLOYEES_907_5 (ID,F_NAME,L_NAME) VALUES
+	 (180,'Winston','Taylor'),
+	 (181,'Jean','Fleaur'),
+	 (182,'Martha','Sullivan'),
+	 (183,'Girard','Geoni'),
+	 (184,'Nandita','Sarchand'),
+	 (185,'Alexander','Hunold'),
+	 (186,'Julia','Dellinger'),
+	 (187,'Anthony','Cabrio'),
+	 (188,'Kelly','Chung'),
+	 (189,'Jennifer','Dilly');
+INSERT INTO HR.EMPLOYEES_907_5 (ID,F_NAME,L_NAME) VALUES
+	 (190,'Timothy','Gates'),
+	 (191,'Randall','Perkins'),
+	 (192,'Sarah','Bell'),
+	 (193,'Britney','Everett'),
+	 (194,'Samuel','McCain'),
+	 (195,'Vance','Jones'),
+	 (196,'Aaana','Walsh'),
+	 (197,'Kevin','Feeney'),
+	 (198,'Donald','OConnell'),
+	 (199,'Douglas','Grant');
+INSERT INTO HR.EMPLOYEES_907_5 (ID,F_NAME,L_NAME) VALUES
+	 (200,'Jennifer','Whalen'),
+	 (201,'Michael','Hartstein'),
+	 (202,'PatA','Fay'),
+	 (203,'Susan','Mavris'),
+	 (204,'Hermann','Baer'),
+	 (205,'Shelley','Higgins'),
+	 (206,'William','Gietz');

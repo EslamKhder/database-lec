@@ -1,0 +1,4 @@
+INSERT INTO HR.ORDERS (ID,ORDERNUMBER,TOTALPRICE,USER_ID) VALUES
+	 (1,'order#1',100,1),
+	 (2,'order#2',200,1),
+	 (3,'order#3',300,1);

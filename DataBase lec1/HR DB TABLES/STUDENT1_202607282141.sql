@@ -1,0 +1,3 @@
+INSERT INTO HR.STUDENT1 (ID,USER_NAME,PASSWORD) VALUES
+	 (1,'ahmed','123'),
+	 (2,'eslam','123');

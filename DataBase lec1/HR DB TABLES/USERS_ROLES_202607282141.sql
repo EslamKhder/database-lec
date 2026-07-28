@@ -1,0 +1,5 @@
+INSERT INTO HR.USERS_ROLES (USER_ID,ROLE_ID) VALUES
+	 (2,41),
+	 (2,44),
+	 (2,61),
+	 (2,62);

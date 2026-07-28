@@ -1,0 +1,118 @@
+INSERT INTO HR.EMPLOYEES_COPY10 (NAME,SURNAME) VALUES
+	 ('Ellen','Abel'),
+	 ('Sundar','Ande'),
+	 ('Mozhe','Atkinson'),
+	 ('David','Austin'),
+	 ('Hermann','Baer'),
+	 ('Shelli','Baida'),
+	 ('Amit','Banda'),
+	 ('Elizabeth','Bates'),
+	 ('Sarah','Bell'),
+	 ('David','Bernstein');
+INSERT INTO HR.EMPLOYEES_COPY10 (NAME,SURNAME) VALUES
+	 ('Laura','Bissot'),
+	 ('Harrison','Bloom'),
+	 ('Alexis','Bull'),
+	 ('Anthony','Cabrio'),
+	 ('Gerald','Cambrault'),
+	 ('Nanette','Cambrault'),
+	 ('John','Chen'),
+	 ('Kelly','Chung'),
+	 ('Karen','Colmenares'),
+	 ('Curtis','Davies');
+INSERT INTO HR.EMPLOYEES_COPY10 (NAME,SURNAME) VALUES
+	 ('     Lex        ','De Haan'),
+	 ('Julia','Dellinger'),
+	 ('Jennifer','Dilly'),
+	 ('Louise','Doran'),
+	 ('Bruce','Ernst'),
+	 ('Alberto','Errazuriz'),
+	 ('Britney','Everett'),
+	 ('Daniel','Faviet'),
+	 ('Pat','Fay'),
+	 ('Kevin','Feeney');
+INSERT INTO HR.EMPLOYEES_COPY10 (NAME,SURNAME) VALUES
+	 ('Jean','Fleaur'),
+	 ('Tayler','Fox'),
+	 ('Adam','Fripp'),
+	 ('Timothy','Gates'),
+	 ('Ki','Gee'),
+	 ('Girard','Geoni'),
+	 ('William','Gietz'),
+	 ('William','Gietz'),
+	 ('Douglas','Grant'),
+	 ('Kimberely','Grant');
+INSERT INTO HR.EMPLOYEES_COPY10 (NAME,SURNAME) VALUES
+	 ('Nancy','Greenberg'),
+	 ('Danielle','Greene'),
+	 ('Peter','Hall'),
+	 ('Michael','Hartstein'),
+	 ('Shelley','Higgins'),
+	 ('Guy','Himuro'),
+	 (' Alex    ander ','Hunold'),
+	 ('Alyssa','Hutton'),
+	 ('Charles','Johnson'),
+	 ('Vance','Jones');
+INSERT INTO HR.EMPLOYEES_COPY10 (NAME,SURNAME) VALUES
+	 ('Payam','Kaufling'),
+	 ('Alexander','Khoo'),
+	 ('    Steven    ','King'),
+	 ('Janette','King'),
+	 ('    Neena      ','Kochhar'),
+	 ('Sundita','Kumar'),
+	 ('Renske','Ladwig'),
+	 ('James','Landry'),
+	 ('David','Lee'),
+	 ('Jack','Livingston');
+INSERT INTO HR.EMPLOYEES_COPY10 (NAME,SURNAME) VALUES
+	 ('Diana','Lorentz'),
+	 ('Jason','Mallin'),
+	 ('Steven','Markle'),
+	 ('James','Marlow'),
+	 ('Mattea','Marvins'),
+	 ('Randall','Matos'),
+	 ('Susan','Mavris'),
+	 ('Samuel','McCain'),
+	 ('Allan','McEwen'),
+	 ('Irene','Mikkilineni');
+INSERT INTO HR.EMPLOYEES_COPY10 (NAME,SURNAME) VALUES
+	 ('Kevin','Mourgos'),
+	 ('Julia','Nayer'),
+	 ('Donald','OConnell'),
+	 ('Christopher','Olsen'),
+	 ('TJ','Olson'),
+	 ('Lisa','Ozer'),
+	 ('Karen','Partners'),
+	 ('Valli','Pataballa'),
+	 ('Joshua','Patel'),
+	 ('Randall','Perkins');
+INSERT INTO HR.EMPLOYEES_COPY10 (NAME,SURNAME) VALUES
+	 ('Hazel','Philtanker'),
+	 ('Luis','Popp'),
+	 ('Trenna','Rajs'),
+	 ('Den','Raphaely'),
+	 ('Michael','Rogers'),
+	 ('John','Russell'),
+	 ('Nandita','Sarchand'),
+	 ('Ismael','Sciarra'),
+	 ('John','Seo'),
+	 ('Sarath','Sewall');
+INSERT INTO HR.EMPLOYEES_COPY10 (NAME,SURNAME) VALUES
+	 ('Lindsey','Smith'),
+	 ('Stephen','Stiles'),
+	 ('Martha','Sullivan'),
+	 ('Patrick','Sully'),
+	 ('Jonathon','Taylor'),
+	 ('Winston','Taylor'),
+	 ('Sigal','Tobias'),
+	 ('Peter','Tucker'),
+	 ('Oliver','Tuvault'),
+	 ('Jose Manuel','Urman');
+INSERT INTO HR.EMPLOYEES_COPY10 (NAME,SURNAME) VALUES
+	 ('Peter','Vargas'),
+	 ('Clara','Vishney'),
+	 ('Shanta','Vollman'),
+	 ('Alana','Walsh'),
+	 ('Matthew','Weiss'),
+	 ('Jennifer','Whalen'),
+	 ('Eleni','Zlotkey');

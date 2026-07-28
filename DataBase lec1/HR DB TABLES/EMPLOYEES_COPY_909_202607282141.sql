@@ -1,0 +1,118 @@
+INSERT INTO HR.EMPLOYEES_COPY_909 (EMPLOYEE_ID,FIRST_NAME) VALUES
+	 (174,'Ellen'),
+	 (166,'Sundar'),
+	 (130,'Mozhe'),
+	 (105,'osama'),
+	 (204,'Hermann'),
+	 (116,'Shelli'),
+	 (167,'Amit'),
+	 (172,'Elizabeth'),
+	 (192,'Sarah'),
+	 (151,'David');
+INSERT INTO HR.EMPLOYEES_COPY_909 (EMPLOYEE_ID,FIRST_NAME) VALUES
+	 (129,'Laura'),
+	 (169,'Harrison'),
+	 (187,'Anthony'),
+	 (148,'Gerald'),
+	 (154,'Nanette'),
+	 (110,'John'),
+	 (188,'Kelly'),
+	 (119,'Karen'),
+	 (142,'Curtis'),
+	 (186,'Julia');
+INSERT INTO HR.EMPLOYEES_COPY_909 (EMPLOYEE_ID,FIRST_NAME) VALUES
+	 (189,'Jennifer'),
+	 (160,'Louise'),
+	 (147,'Alberto'),
+	 (193,'Britney'),
+	 (109,'Daniel'),
+	 (202,'PatA'),
+	 (197,'Kevin'),
+	 (181,'Jean'),
+	 (170,'Tayler'),
+	 (121,'Ahmed mohamed');
+INSERT INTO HR.EMPLOYEES_COPY_909 (EMPLOYEE_ID,FIRST_NAME) VALUES
+	 (190,'Timothy'),
+	 (135,'Ki'),
+	 (183,'Girard'),
+	 (171,'William'),
+	 (206,'William'),
+	 (199,'Douglas'),
+	 (178,'Kimberely'),
+	 (108,'Nancy'),
+	 (163,'Danielle'),
+	 (152,'Peter');
+INSERT INTO HR.EMPLOYEES_COPY_909 (EMPLOYEE_ID,FIRST_NAME) VALUES
+	 (201,'Michael'),
+	 (205,'Shelley'),
+	 (118,'Guy'),
+	 (185,'Alexander'),
+	 (175,'Alyssa'),
+	 (179,'Charles'),
+	 (195,'Vance'),
+	 (101,'mohamed'),
+	 (122,'zohamed Ahmed'),
+	 (115,'Alexander');
+INSERT INTO HR.EMPLOYEES_COPY_909 (EMPLOYEE_ID,FIRST_NAME) VALUES
+	 (156,'Janette'),
+	 (173,'Sundita'),
+	 (137,'Renske'),
+	 (127,'James'),
+	 (165,'David'),
+	 (177,'Jack'),
+	 (107,'Diana'),
+	 (133,'Jason'),
+	 (128,'Steven'),
+	 (131,'James');
+INSERT INTO HR.EMPLOYEES_COPY_909 (EMPLOYEE_ID,FIRST_NAME) VALUES
+	 (164,'Mattea'),
+	 (143,'Randall'),
+	 (203,'Susan'),
+	 (194,'Samuel'),
+	 (158,'Allan'),
+	 (126,'Irene'),
+	 (124,'Kevin'),
+	 (125,'Julia'),
+	 (198,'Donald'),
+	 (153,'Christopher');
+INSERT INTO HR.EMPLOYEES_COPY_909 (EMPLOYEE_ID,FIRST_NAME) VALUES
+	 (132,'ai'),
+	 (168,'Lisa'),
+	 (146,'Karen'),
+	 (106,'Valli'),
+	 (140,'Joshua'),
+	 (191,'Randall'),
+	 (136,'Hazel'),
+	 (113,'Luisaa'),
+	 (141,'Trenna'),
+	 (114,'aaDen');
+INSERT INTO HR.EMPLOYEES_COPY_909 (EMPLOYEE_ID,FIRST_NAME) VALUES
+	 (134,'Michael zawe'),
+	 (145,'John'),
+	 (184,'Nandita'),
+	 (111,'ismael ali'),
+	 (139,'John'),
+	 (161,'Sarath'),
+	 (159,'Lindsey'),
+	 (138,'Stephen'),
+	 (182,'Martha'),
+	 (157,'Patrick');
+INSERT INTO HR.EMPLOYEES_COPY_909 (EMPLOYEE_ID,FIRST_NAME) VALUES
+	 (176,'Jonathon'),
+	 (180,'Winston'),
+	 (117,'Sigal'),
+	 (150,'Peter'),
+	 (155,'Oliver'),
+	 (112,'ismael m'),
+	 (144,'Peter'),
+	 (162,'Clara'),
+	 (123,'ali Ahmed  mohamed'),
+	 (196,'Aaana');
+INSERT INTO HR.EMPLOYEES_COPY_909 (EMPLOYEE_ID,FIRST_NAME) VALUES
+	 (120,'Matthew'),
+	 (200,'Jennifer'),
+	 (149,'Eleni'),
+	 (100,NULL),
+	 (103,'mohamed'),
+	 (102,'aLi'),
+	 (104,'ali');

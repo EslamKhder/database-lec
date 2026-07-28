@@ -1,0 +1,3 @@
+INSERT INTO HR.STUDENT_907_TEST (ID,USER_NAME,PASSWORD) VALUES
+	 (1,'ahmed','123'),
+	 (2,'osama','456');

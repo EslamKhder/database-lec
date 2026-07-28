@@ -1,0 +1,4 @@
+INSERT INTO HR.TEST_EMP (COMMISSION_PCT) VALUES
+	 ('20'),
+	 ('20'),
+	 ('20');

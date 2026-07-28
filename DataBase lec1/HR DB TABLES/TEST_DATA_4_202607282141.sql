@@ -1,0 +1,118 @@
+INSERT INTO HR.TEST_DATA_4 (NAME,SURNAME,ANNUAL_SALARY) VALUES
+	 ('David','King',1001),
+	 ('Neena      ','KING',NULL),
+	 ('Lex        ','king',NULL),
+	 ('Alexander','Hunold',9001),
+	 ('Bruce','Ernst',6001),
+	 ('ali','Austin',24001),
+	 ('Valli','Pataballa',4801),
+	 ('Diana','Lorentz',4201),
+	 ('Nancy','Greenberg',12009),
+	 ('Daniel','Faviet',9001);
+INSERT INTO HR.TEST_DATA_4 (NAME,SURNAME,ANNUAL_SALARY) VALUES
+	 ('John','Chen',8201),
+	 ('ismael ali','Sciarra',7701),
+	 ('ismael mohamed','Urman',7801),
+	 ('Luis','Popp',6901),
+	 ('Den','Raphaely',11001),
+	 ('Alexander','Khoo',3101),
+	 ('Shelli','Baida',2901),
+	 ('Sigal','Tobias',2801),
+	 ('Guy','Himuro',2601),
+	 ('Karen','Colmenares',2501);
+INSERT INTO HR.TEST_DATA_4 (NAME,SURNAME,ANNUAL_SALARY) VALUES
+	 ('Matthew','Weiss',8001),
+	 ('Adam','Fripp',8201),
+	 ('Payam','Kaufling',7901),
+	 ('Shanta','Vollman',6501),
+	 ('Kevin','Mourgos',5801),
+	 ('Julia','Nayer',3201),
+	 ('Irene','Mikkilineni',2701),
+	 ('James','Landry',2401),
+	 ('Steven','Markle',2201),
+	 ('Laura','Bissot',3301);
+INSERT INTO HR.TEST_DATA_4 (NAME,SURNAME,ANNUAL_SALARY) VALUES
+	 ('Mozhe','Atkinson',2801),
+	 ('James','Marlow',2501),
+	 ('TJ','Olson',2101),
+	 ('Jason','Mallin',3301),
+	 ('Michael','Rogers',2901),
+	 ('Ki','Gee',2401),
+	 ('Hazel','Philtanker',2201),
+	 ('Renske','Ladwig',3601),
+	 ('Stephen','Stiles',3201),
+	 ('John','Seo',2701);
+INSERT INTO HR.TEST_DATA_4 (NAME,SURNAME,ANNUAL_SALARY) VALUES
+	 ('Joshua','Patel',2501),
+	 ('Trenna','Rajs',3501),
+	 ('Curtis','Davies',3101),
+	 ('Randall','Matos',2601),
+	 ('Peter','Vargas',2501),
+	 ('John','Russell',14001),
+	 ('Karen','Partners',13501),
+	 ('Alberto','Errazuriz',12001),
+	 ('Gerald','Cambrault',11001),
+	 ('Eleni','Zlotkey',10501);
+INSERT INTO HR.TEST_DATA_4 (NAME,SURNAME,ANNUAL_SALARY) VALUES
+	 ('Peter','Tucker',10001),
+	 ('David','Bernstein',9501),
+	 ('Peter','Hall',9001),
+	 ('Christopher','Olsen',8001),
+	 ('Nanette','Cambrault',7501),
+	 ('Oliver','Tuvault',7001),
+	 ('Janette','King',10001),
+	 ('Patrick','Sully',9501),
+	 ('Allan','McEwen',9001),
+	 ('Lindsey','Smith',8001);
+INSERT INTO HR.TEST_DATA_4 (NAME,SURNAME,ANNUAL_SALARY) VALUES
+	 ('Louise','Doran',7501),
+	 ('Sarath','Sewall',7001),
+	 ('Clara','Vishney',10501),
+	 ('Danielle','Greene',9501),
+	 ('Mattea','Marvins',7201),
+	 ('David','Lee',6801),
+	 ('Sundar','Ande',6401),
+	 ('Amit','Banda',6201),
+	 ('Lisa','Ozer',11501),
+	 ('Harrison','Bloom',10001);
+INSERT INTO HR.TEST_DATA_4 (NAME,SURNAME,ANNUAL_SALARY) VALUES
+	 ('Tayler','Fox',9601),
+	 ('William','Gietz',7401),
+	 ('Elizabeth','Bates',7301),
+	 ('Sundita','Kumar',6101),
+	 ('Ellen','Abel',11001),
+	 ('Alyssa','Hutton',8801),
+	 ('Jonathon','Taylor',8601),
+	 ('Jack','Livingston',8401),
+	 ('Kimberely','Grant',7001),
+	 ('Charles','Johnson',6201);
+INSERT INTO HR.TEST_DATA_4 (NAME,SURNAME,ANNUAL_SALARY) VALUES
+	 ('Winston','Taylor',3201),
+	 ('Jean','Fleaur',3101),
+	 ('Martha','Sullivan',2501),
+	 ('Girard','Geoni',2801),
+	 ('Nandita','Sarchand',4201),
+	 ('Alexander','Hunold',4101),
+	 ('Julia','Dellinger',3401),
+	 ('Anthony','Cabrio',3001),
+	 ('Kelly','Chung',3801),
+	 ('Jennifer','Dilly',3601);
+INSERT INTO HR.TEST_DATA_4 (NAME,SURNAME,ANNUAL_SALARY) VALUES
+	 ('Timothy','Gates',2901),
+	 ('Randall','Perkins',2501),
+	 ('Sarah','Bell',4001),
+	 ('Britney','Everett',3901),
+	 ('Samuel','McCain',3201),
+	 ('Vance','Jones',2801),
+	 ('Aaana','Walsh',3101),
+	 ('Kevin','Feeney',3001),
+	 ('Donald','OConnell',2601),
+	 ('Douglas','Grant',2601);
+INSERT INTO HR.TEST_DATA_4 (NAME,SURNAME,ANNUAL_SALARY) VALUES
+	 ('Jennifer','Whalen',4401),
+	 ('Michael','Hartstein',13001),
+	 ('Pat','Fay',6001),
+	 ('Susan','Mavris',6501),
+	 ('Hermann','Baer',10001),
+	 ('Shelley','Higgins',12009),
+	 ('William','Gietz',8301);

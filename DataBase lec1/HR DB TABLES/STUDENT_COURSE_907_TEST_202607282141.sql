@@ -1,0 +1,7 @@
+INSERT INTO HR.STUDENT_COURSE_907_TEST (STUDENT_ID,COURSE_ID) VALUES
+	 (1,1),
+	 (1,2),
+	 (1,3),
+	 (2,1),
+	 (2,2),
+	 (2,3);

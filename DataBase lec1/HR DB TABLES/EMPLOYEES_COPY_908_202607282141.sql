@@ -1,0 +1,118 @@
+INSERT INTO HR.EMPLOYEES_COPY_908 (NAME,SURNAME,EMAIL) VALUES
+	 ('Ellen','Abelssss',NULL),
+	 ('Sundar','Ande',NULL),
+	 ('Mozhe','Atkinson',NULL),
+	 ('osama','Austin',NULL),
+	 ('Hermann','Baer',NULL),
+	 ('Shelli','Baida',NULL),
+	 ('Amit','Banda',NULL),
+	 ('Elizabeth','Bates',NULL),
+	 ('Sarah','Bell',NULL),
+	 ('David','Bernstein',NULL);
+INSERT INTO HR.EMPLOYEES_COPY_908 (NAME,SURNAME,EMAIL) VALUES
+	 ('Laura','Bissot',NULL),
+	 ('Harrison','Bloom',NULL),
+	 ('Anthony','Cabrio',NULL),
+	 ('Gerald','Cambrault',NULL),
+	 ('Nanette','Cambrault',NULL),
+	 ('John','Chen',NULL),
+	 ('Kelly','Chung',NULL),
+	 ('Karen','Colmenares',NULL),
+	 ('Curtis','Davies',NULL),
+	 ('Julia','Dellinger',NULL);
+INSERT INTO HR.EMPLOYEES_COPY_908 (NAME,SURNAME,EMAIL) VALUES
+	 ('Jennifer','Dilly',NULL),
+	 ('Louise','Doran',NULL),
+	 ('Alberto','Errazuriz',NULL),
+	 ('Britney','Everett',NULL),
+	 ('Daniel','Faviet',NULL),
+	 ('PatA','Fay',NULL),
+	 ('Kevin','Feeney',NULL),
+	 ('Jean','Fleaur',NULL),
+	 ('Tayler','Fox',NULL),
+	 ('Ahmed mohamed','Fripp',NULL);
+INSERT INTO HR.EMPLOYEES_COPY_908 (NAME,SURNAME,EMAIL) VALUES
+	 ('Timothy','Gates',NULL),
+	 ('Ki','Gee',NULL),
+	 ('Girard','Geoni',NULL),
+	 ('William','Gietz',NULL),
+	 ('William','Gietz',NULL),
+	 ('Douglas','Grant',NULL),
+	 ('Kimberely','Grant',NULL),
+	 ('Nancy','Greenberg',NULL),
+	 ('Danielle','Greene',NULL),
+	 ('Peter','Hall',NULL);
+INSERT INTO HR.EMPLOYEES_COPY_908 (NAME,SURNAME,EMAIL) VALUES
+	 ('Michael','Hartstein',NULL),
+	 ('Shelley','Higgins',NULL),
+	 ('Guy','Himuro',NULL),
+	 ('Alexander','Hunold',NULL),
+	 ('Alyssa','Hutton',NULL),
+	 ('Charles','Johnson',NULL),
+	 ('Vance','Jones',NULL),
+	 ('mohamed','KING',NULL),
+	 ('zohamed Ahmed','Kaufling',NULL),
+	 ('Alexander','Khoo',NULL);
+INSERT INTO HR.EMPLOYEES_COPY_908 (NAME,SURNAME,EMAIL) VALUES
+	 ('Janette','King',NULL),
+	 ('Sundita','Kumar',NULL),
+	 ('Renske','Ladwig',NULL),
+	 ('James','Landry',NULL),
+	 ('David','Lee',NULL),
+	 ('Jack','Livingston',NULL),
+	 ('Diana','Lorentz',NULL),
+	 ('Jason','Mallin',NULL),
+	 ('Steven','Markle',NULL),
+	 ('James','Marlow',NULL);
+INSERT INTO HR.EMPLOYEES_COPY_908 (NAME,SURNAME,EMAIL) VALUES
+	 ('Mattea','Marvins',NULL),
+	 ('Randall','Matos',NULL),
+	 ('Susan','Mavris',NULL),
+	 ('Samuel','McCain',NULL),
+	 ('Allan','McEwen',NULL),
+	 ('Irene','Mikkilineni',NULL),
+	 ('Kevin','Mourgos',NULL),
+	 ('Julia','Nayer',NULL),
+	 ('Donald','OConnell',NULL),
+	 ('Christopher','Olsen',NULL);
+INSERT INTO HR.EMPLOYEES_COPY_908 (NAME,SURNAME,EMAIL) VALUES
+	 ('ai','Olson',NULL),
+	 ('Lisa','Ozer',NULL),
+	 ('Karen','Partners',NULL),
+	 ('Valli','Pataballa',NULL),
+	 ('Joshua','Patel',NULL),
+	 ('Randall','Perkins',NULL),
+	 ('Hazel','Philtanker',NULL),
+	 ('Luisaa','Popp',NULL),
+	 ('Trenna','Rajs',NULL),
+	 ('aaDen','Raphaely',NULL);
+INSERT INTO HR.EMPLOYEES_COPY_908 (NAME,SURNAME,EMAIL) VALUES
+	 ('Michael','Rogers',NULL),
+	 ('John','Russell',NULL),
+	 ('Nandita','Sarchand',NULL),
+	 ('ismael ali','Sciarra',NULL),
+	 ('John','Seo',NULL),
+	 ('Sarath','Sewall',NULL),
+	 ('Lindsey','Smith',NULL),
+	 ('Stephen','Stiles',NULL),
+	 ('Martha','Sullivan',NULL),
+	 ('Patrick','Sully',NULL);
+INSERT INTO HR.EMPLOYEES_COPY_908 (NAME,SURNAME,EMAIL) VALUES
+	 ('Jonathon','Taylor',NULL),
+	 ('Winston','Taylor',NULL),
+	 ('Sigal','Tobias',NULL),
+	 ('Peter','Tucker',NULL),
+	 ('Oliver','Tuvault',NULL),
+	 ('ismael m','Urman',NULL),
+	 ('Peter','Vargas',NULL),
+	 ('Clara','Vishney',NULL),
+	 ('ali Ahmed  mohamed','Vollman',NULL),
+	 ('Aaana','Walsh',NULL);
+INSERT INTO HR.EMPLOYEES_COPY_908 (NAME,SURNAME,EMAIL) VALUES
+	 ('Matthew','Weiss',NULL),
+	 ('Jennifer','Whalen',NULL),
+	 ('Eleni','Zlotkey',NULL),
+	 (NULL,'ayman',NULL),
+	 ('mohamed','king',NULL),
+	 ('aLi','motaz',NULL),
+	 ('ali','osama',NULL);

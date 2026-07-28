@@ -1,0 +1,2 @@
+INSERT INTO HR.PLAYER1 (ID,NAME) VALUES
+	 (1,'ahmed');

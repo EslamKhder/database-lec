@@ -1,0 +1,3 @@
+INSERT INTO HR.USER_TEST1 (ID,USER_NAME,PASSWORD) VALUES
+	 (70,'ahmed','123'),
+	 (80,'osama','789');

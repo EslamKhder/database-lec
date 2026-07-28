@@ -1,0 +1,5 @@
+INSERT INTO HR.TEST_EMP_V1 (VALUE) VALUES
+	 (6),
+	 (4),
+	 (NULL),
+	 (8);

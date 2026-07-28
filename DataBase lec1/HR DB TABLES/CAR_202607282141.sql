@@ -1,0 +1,2 @@
+INSERT INTO HR.CAR (ID,NAME) VALUES
+	 (22,'test');

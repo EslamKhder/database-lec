@@ -6,8 +6,6 @@ CREATE USER SCHOOL_USER IDENTIFIED BY 123;
 
 ALTER USER SCHOOL_USER IDENTIFIED BY abc123;
 
-DROP USER SCHOOL_USER cascade;
-
 GRANT CREATE SESSION TO SCHOOL_USER;
 
 CREATE TABLE TEST (
@@ -62,6 +60,6 @@ REVOKE CREATE Table FROM SCHOOL_USER;
 REVOKE  CREATE SESSION FROM  SCHOOL_USER;
 
 
-
+DROP USER SCHOOL_USER cascade;
 DROP USER SCHOOL_USER cascade;
 CASCADE: Ensures that all schema objects (like tables, views, procedures, etc.) owned by SCHOOL_USER are also deleted. Without CASCADE, the command would fail if the user owns any objects.

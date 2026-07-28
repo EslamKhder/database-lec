@@ -1,0 +1,118 @@
+INSERT INTO HR.EMPLOYEES_COPY_911 (FIRST_NAME,LAST_NAME,SALARY) VALUES
+	 (NULL,'ayman',2000),
+	 ('mohamed','KING',2000),
+	 ('aLi','motaz',2000),
+	 ('mohamed','king',2000),
+	 ('ali','osama',12000),
+	 ('osama','Austin',48000),
+	 ('Valli','Pataballa',9600),
+	 ('Diana','Lorentz',8400),
+	 ('Nancy','Greenberg',24016),
+	 ('Daniel','Faviet',18000);
+INSERT INTO HR.EMPLOYEES_COPY_911 (FIRST_NAME,LAST_NAME,SALARY) VALUES
+	 ('John','Chen',16400),
+	 ('ismael ali','Sciarra',15400),
+	 ('ismael m','Urman',15600),
+	 ('Luisaa','Popp',13800),
+	 ('aaDen','Raphaely',22000),
+	 ('Alexander','Khoo',6200),
+	 ('Shelli','Baida',5800),
+	 ('Sigal','Tobias',5600),
+	 ('Guy','Himuro',5200),
+	 ('Karen','Colmenares',5000);
+INSERT INTO HR.EMPLOYEES_COPY_911 (FIRST_NAME,LAST_NAME,SALARY) VALUES
+	 ('Matthew','Weiss',16000),
+	 ('Ahmed mohamed','Fripp',16400),
+	 ('zohamed Ahmed','Kaufling',15800),
+	 ('ali Ahmed  mohamed','Vollman',13000),
+	 ('Kevin','Mourgos',11600),
+	 ('Julia','Nayer',6400),
+	 ('Irene','Mikkilineni',5400),
+	 ('James','Landry',4800),
+	 ('Steven','Markle',4400),
+	 ('Laura','Bissot',6600);
+INSERT INTO HR.EMPLOYEES_COPY_911 (FIRST_NAME,LAST_NAME,SALARY) VALUES
+	 ('Mozhe','Atkinson',5600),
+	 ('James','Marlow',5000),
+	 ('ai','Olson',4200),
+	 ('Jason','Mallin',6600),
+	 ('Michael zawe','Rogers',5800),
+	 ('Ki','Gee',4800),
+	 ('Hazel','Philtanker',4400),
+	 ('Renske','Ladwig',7200),
+	 ('Stephen','Stiles',6400),
+	 ('John','Seo',5400);
+INSERT INTO HR.EMPLOYEES_COPY_911 (FIRST_NAME,LAST_NAME,SALARY) VALUES
+	 ('Joshua','Patel',5000),
+	 ('Trenna','Rajs',7000),
+	 ('Curtis','Davies',6200),
+	 ('Randall','Matos',5200),
+	 ('Peter','Vargas',12000),
+	 ('John','Russell',28000),
+	 ('Karen','Partners',27000),
+	 ('Alberto','Errazuriz',24000),
+	 ('Gerald','Cambrault',22000),
+	 ('Eleni','Zlotkey',21000);
+INSERT INTO HR.EMPLOYEES_COPY_911 (FIRST_NAME,LAST_NAME,SALARY) VALUES
+	 ('Peter','Tucker',20000),
+	 ('David','Bernstein',19000),
+	 ('Peter','Hall',18000),
+	 ('Christopher','Olsen',16000),
+	 ('Nanette','Cambrault',14000),
+	 ('Oliver','Tuvault',14000),
+	 ('Janette','King',20000),
+	 ('Patrick','Sully',19000),
+	 ('Allan','McEwen',18000),
+	 ('Lindsey','Smith',16000);
+INSERT INTO HR.EMPLOYEES_COPY_911 (FIRST_NAME,LAST_NAME,SALARY) VALUES
+	 ('Louise','Doran',15000),
+	 ('Sarath','Sewall',14000),
+	 ('Clara','Vishney',21000),
+	 ('Danielle','Greene',19000),
+	 ('Mattea','Marvins',14400),
+	 ('David','Lee',13600),
+	 ('Sundar','Ande',12800),
+	 ('Amit','Banda',12400),
+	 ('Lisa','Ozer',23000),
+	 ('Harrison','Bloom',20000);
+INSERT INTO HR.EMPLOYEES_COPY_911 (FIRST_NAME,LAST_NAME,SALARY) VALUES
+	 ('Tayler','Fox',19200),
+	 ('William','Gietz',14800),
+	 ('Elizabeth','Bates',14600),
+	 ('Sundita','Kumar',12200),
+	 ('Ellen','Abel',22000),
+	 ('Alyssa','Hutton',17600),
+	 ('Jonathon','Taylor',17200),
+	 ('Jack','Livingston',16800),
+	 ('Kimberely','Grant',14000),
+	 ('Charles','Johnson',12400);
+INSERT INTO HR.EMPLOYEES_COPY_911 (FIRST_NAME,LAST_NAME,SALARY) VALUES
+	 ('Winston','Taylor',6400),
+	 ('Jean','Fleaur',6200),
+	 ('Martha','Sullivan',5000),
+	 ('Girard','Geoni',5600),
+	 ('Nandita','Sarchand',8400),
+	 ('Alexander','Hunold',8200),
+	 ('Julia','Dellinger',6800),
+	 ('Anthony','Cabrio',6000),
+	 ('Kelly','Chung',7600),
+	 ('Jennifer','Dilly',7200);
+INSERT INTO HR.EMPLOYEES_COPY_911 (FIRST_NAME,LAST_NAME,SALARY) VALUES
+	 ('Timothy','Gates',5800),
+	 ('Randall','Perkins',5000),
+	 ('Sarah','Bell',8000),
+	 ('Britney','Everett',7800),
+	 ('Samuel','McCain',6400),
+	 ('Vance','Jones',5600),
+	 ('Aaana','Walsh',6200),
+	 ('Kevin','Feeney',6000),
+	 ('Donald','OConnell',5200),
+	 ('Douglas','Grant',5200);
+INSERT INTO HR.EMPLOYEES_COPY_911 (FIRST_NAME,LAST_NAME,SALARY) VALUES
+	 ('Jennifer','Whalen',8800),
+	 ('Michael','Hartstein',26000),
+	 ('PatA','Fay',8400),
+	 ('Susan','Mavris',13000),
+	 ('Hermann','Baer',20000),
+	 ('Shelley','Higgins',24016),
+	 ('William','Gietz',4000);
